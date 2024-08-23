@@ -1,4 +1,4 @@
-module github.com/dunkelstilzchen/wakeonlan
+module wakeonlan
 
 go 1.21
 
