@@ -1,5 +1,5 @@
-module github.com/Dunkelstilzchen/wakeonlan
+module github.com/dunkelstilzchen/wakeonlan
 
-go 1.19
+go 1.21
 
-require gocv.io/x/gocv v0.37.0 // indirect
+toolchain go1.22.2
